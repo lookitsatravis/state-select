@@ -1,0 +1,14 @@
+{
+  "name": "state-select",
+  "version": "1.0.0",
+  "description": "Angular 1.X state/province selection directive",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Vignon <travis@lookitsatravis.com>",
+  "license": "MIT",
+  "dependencies": {
+    "country-select": "github:lookitsatravis/country-select"
+  }
+}
